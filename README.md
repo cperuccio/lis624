@@ -1,13 +1,16 @@
 # lis624
 
-This is an interesting test! I am testing.
+## 2026-02-07 - Experimenting with GitHub
 
-**bold** 
+**Goal:** To understand how GitHub works
 
-Test!
+**Context:** I'm taking LIS 624 class with Dr. Burns.
 
-More tests
+**Steps:** I'm listening to the lecture as I work.
 
-##But wait
+**Results:** TBD
 
-There is more!
+**Verification:** TBD
+
+
+
